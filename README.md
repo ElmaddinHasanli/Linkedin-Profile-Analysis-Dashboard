@@ -13,14 +13,14 @@ The dashboard is divided into **two main pages**:
 
 ### 🧭 **Overview Page**
 
-![Overview Page](![image](https://github.com/user-attachments/assets/07ebd7f2-deae-4a5a-bdb2-4afdb4ae7c91)
+![Overview Page](https://github.com/user-attachments/assets/07ebd7f2-deae-4a5a-bdb2-4afdb4ae7c91)
 )
 
 ---
 
 ### 📊 **Insights Page**
 
-![Insights Page](![image](https://github.com/user-attachments/assets/8331a318-ba49-45f1-b471-a9f19b43ab03)
+![Insights Page](https://github.com/user-attachments/assets/8331a318-ba49-45f1-b471-a9f19b43ab03)
 )
 
 ---
