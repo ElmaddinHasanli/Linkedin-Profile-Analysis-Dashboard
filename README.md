@@ -180,3 +180,22 @@ The dashboard is divided into **two main pages**:
 
 ---
 
+## 🔍 Use Cases
+
+- 📈 Personal branding insights
+- 👥 Targeted networking strategy
+- 💬 Communication pattern analysis
+- 🧑‍💼 Market segmentation of your professional community
+- 🎯 Goal tracking and profile optimization
+
+---
+
+## 👤 Author
+
+**Elmaddin Hasanli**  
+📍 Baku, Azerbaijan 
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/your-profile)
+
+---
+
+> ⭐ *Feel free to fork this project, contribute, or use the structure for your own LinkedIn analysis dashboard.*
