@@ -151,6 +151,26 @@ The dashboard is divided into **two main pages**:
 
 ---
 
+### 🎛 Year Filter (Slicer)
+
+- **Feature:** Interactive year filter from 2018 to 2025.
+- **Located in:** Left sidebar on both dashboard pages.
+- **Usage:** Allows users to dynamically filter all dashboard visuals (charts, KPIs, tables) by one or more selected years.
+- **Business Value:** Enables focused analysis for a specific time period. For instance, you can compare activity during 2020 vs. 2022 to observe how your networking behavior evolved.
+
+> 🔁 *Multi-select supported: hold CTRL (Windows) or CMD (Mac) to select multiple years.*
+
+---
+
+### 🔄 Clear All Filters Button
+
+- **Function:** Resets all filters (like selected years) to show the full data again.
+- **Location:** Found below the Year Filter panel on the left side.
+- **Purpose:** Enhances user experience by providing a quick way to return to the default dashboard state.
+- **Ideal for:** Viewers who explore multiple years and want to instantly reset their view.
+
+> 🧼 *A must-have usability feature in any interactive BI dashboard!*
+
 ## 🛠 Tools & Technologies Used
 
 - **Power BI Desktop** – For building the dashboard
@@ -159,3 +179,4 @@ The dashboard is divided into **two main pages**:
 - **LinkedIn Data Export (CSV)** – Data source downloaded from [LinkedIn Settings > Download Data](https://www.linkedin.com/settings/data-export-page)
 
 ---
+
