@@ -194,7 +194,7 @@ The dashboard is divided into **two main pages**:
 
 **Elmaddin Hasanli**  
 📍 Baku, Azerbaijan 
-📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/your-profile)
+📫 [Connect with me on LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/elmaddin-hasanli-aa1880156?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
